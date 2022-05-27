@@ -1,4 +1,4 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Anthony - 👋 
 
 <!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
@@ -80,3 +80,4 @@
 <!-- [youtube]: https://youtube.com/theanthonylogan -->
 [linkedin]: https://linkedin.com/in/theanthonylogan
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt -->
+<!-- Thanks codestakr for this template -->
