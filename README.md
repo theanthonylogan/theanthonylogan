@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋! My name is Anthony Hall. Welcome to my Github Profile.
+Please visit 📚 [My Blog](https://dev.to/theanthonylogan) to learn more about me.
 
 <!--
 **theanthonylogan/theanthonylogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
