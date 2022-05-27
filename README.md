@@ -18,16 +18,16 @@
 [![website](./img/globe-light.svg)](https://dev.to/theanthonylogan#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://dev.to/theanthonyloan#gh-dark-mode-only)
 &nbsp;&nbsp;
-<!--
-[![website](./img/youtube-light.svg)](https://youtube.com/theanthonylogan#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/theanthonylogan#gh-dark-mode-only)
-&nbsp;&nbsp;
--->
 [![website](./img/twitter-light.svg)](https://twitter.com/theanthonylogan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/theanthonylogan#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/theanthonylogan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/theanthonylogan#gh-dark-mode-only)
+<!--
+[![website](./img/youtube-light.svg)](https://youtube.com/theanthonylogan#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/theanthonylogan#gh-dark-mode-only)
+&nbsp;&nbsp;
+-->
 
 ### Languages and Tools:
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]()
