@@ -1,4 +1,4 @@
-# Hi there, I'm Anthony - 👋 
+# Hi there, I'm Anthony - 👋
 
 <!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning writing and data engineering 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Developer a habit of writing about what I learn. Get fit. Data Engineering Ultralearning Project
+- 🥅 2023 Goals: Developer a habit of writing about what I learn. Get fit. Data Engineering Ultralearning Project
 - ⚡ Fun fact: I love to play trading card games with my kids.
 
 ### Connect with me:
@@ -23,6 +23,7 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/theanthonylogan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/theanthonylogan#gh-dark-mode-only)
+
 <!--
 [![website](./img/youtube-light.svg)](https://youtube.com/theanthonylogan#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/theanthonylogan#gh-dark-mode-only)
@@ -30,6 +31,7 @@
 -->
 
 ### Languages and Tools:
+
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]()
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]()
@@ -39,7 +41,6 @@
 
 <br />
 <br />
-
 
 <!-- --- -->
 
@@ -63,7 +64,7 @@
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary> -->
-  
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -77,7 +78,10 @@
 </details> -->
 
 [twitter]: https://twitter.com/theanthonylogan
+
 <!-- [youtube]: https://youtube.com/theanthonylogan -->
+
 [linkedin]: https://linkedin.com/in/theanthonylogan
+
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt -->
 <!-- Thanks codestakr for this template -->
