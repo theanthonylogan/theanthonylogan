@@ -8,8 +8,8 @@
 
 ## I'm a Husband, Father, Developer, and Writer!!
 
-- 🌱 I’m currently learning writing and data engineering 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning data engineering and python.
+- 👯 I’m looking to build cool things in python.
 - 🥅 2023 Goals: Developer a habit of writing about what I learn. Get fit. Data Engineering Ultralearning Project
 - ⚡ Fun fact: I love to play trading card games with my kids.
 
@@ -39,8 +39,8 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]()
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]()
 
-<br />
-<br />
+<!-- <br /> -->
+<!-- <br /> -->
 
 <!-- --- -->
 
@@ -51,14 +51,14 @@
 
 <!-- ➡️ [more videos...](https://youtube.com/theanthonylogan) -->
 
----
+<!-- --- -->
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/theanthonylogan.com)
+<!-- ➡️ [more blog posts...](https://dev.to/theanthonylogan.com)
 
 ---
 
@@ -77,11 +77,11 @@
 
 </details> -->
 
-[twitter]: https://twitter.com/theanthonylogan
+<!-- [twitter]: https://twitter.com/theanthonylogan  -->
 
 <!-- [youtube]: https://youtube.com/theanthonylogan -->
 
-[linkedin]: https://linkedin.com/in/theanthonylogan
+<!-- [linkedin]: https://linkedin.com/in/theanthonylogan  -->
 
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt -->
 <!-- Thanks codestakr for this template -->
