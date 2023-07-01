@@ -15,8 +15,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://dev.to/theanthonylogan#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://dev.to/theanthonyloan#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](http://theanthonylogan.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](http://theanthonyloan.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/theanthonylogan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/theanthonylogan#gh-dark-mode-only)
