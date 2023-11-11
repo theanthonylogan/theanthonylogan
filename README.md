@@ -6,12 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 -->
 
-## I'm a Husband, Father, Developer, and Writer!!
-
-- 🌱 I’m currently learning data engineering and python.
-- 👯 I’m looking to build cool things in python.
-- 🥅 2023 Goals: Developer a habit of writing about what I learn. Get fit. Data Engineering Ultralearning Project
-- ⚡ Fun fact: I love to play trading card games with my kids.
+## I'm a Husband, Father, Developer
 
 ### Connect with me:
 
