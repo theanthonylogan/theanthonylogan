@@ -13,8 +13,8 @@
 [![website](./img/globe-light.svg)](http://theanthonylogan.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](http://theanthonylogan.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter_light.jpg)](https://twitter.com/theanthonylogan#gh-light-mode-only)
-[![website](./img/twitter_dark.jpg)](https://twitter.com/theanthonylogan#gh-dark-mode-only)
+[![website](./img/twitter_light_x.svg)](https://twitter.com/theanthonylogan#gh-light-mode-only)
+[![website](./img/twitter_dark_x.svg)](https://twitter.com/theanthonylogan#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/theanthonylogan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/theanthonylogan#gh-dark-mode-only)
