@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="svg5" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1668.56 1221.19"
-	 style="enable-background:new 0 0 1668.56 1221.19;" xml:space="preserve">
-<style type="text/css">
-	.st0{stroke:#FFFFFF;stroke-miterlimit:10;}
-	.st1{fill:#FFFFFF;}
-</style>
-<path class="st0" d="M1168.12,1056.56H511.72c-55.12,0-99.8-44.68-99.8-99.8V300.36c0-55.12,44.68-99.8,99.8-99.8h656.39
-	c55.12,0,99.8,44.68,99.8,99.8v656.39C1267.92,1011.88,1223.24,1056.56,1168.12,1056.56z"/>
-<g id="layer1" transform="translate(52.390088,-25.058597)">
-	<path id="path1009" class="st1" d="M491.03,374.75L721.1,682.38L489.58,932.49h52.11l202.7-218.98l163.77,218.98h177.32
-		L842.46,607.56l215.5-232.81h-52.11L819.18,576.42L668.35,374.75H491.03z M567.66,413.14h81.46l359.72,480.97h-81.46L567.66,413.14
-		z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 17" version="1.1">
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 1168.186281 1056.475264 L 511.784675 1056.475264 C 456.631725 1056.475264 411.802973 1011.859177 411.802973 956.860731 L 411.802973 300.246622 C 411.802973 245.248176 456.631725 200.632089 511.784675 200.632089 L 1168.186281 200.632089 C 1223.33923 200.632089 1267.896293 245.248176 1267.896293 300.246622 L 1267.896293 956.860731 C 1267.896293 1011.859177 1223.33923 1056.475264 1168.186281 1056.475264 Z M 1168.186281 1056.475264 " transform="matrix(0.0143776,0,0,0.0139208,0.00503011,0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 7.816406 4.867188 L 11.125 9.152344 L 7.796875 12.632812 L 8.546875 12.632812 L 11.460938 9.582031 L 13.816406 12.632812 L 16.363281 12.632812 L 12.871094 8.109375 L 15.96875 4.867188 L 15.21875 4.867188 L 12.535156 7.675781 L 10.367188 4.867188 Z M 8.917969 5.402344 L 10.089844 5.402344 L 15.261719 12.097656 L 14.09375 12.097656 Z M 8.917969 5.402344 "/>
 </g>
 </svg>
