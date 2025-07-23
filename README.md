@@ -1,6 +1,6 @@
 # Hi there, I'm Anthony - 👋
 
-## I'm a Developer.
+## I'm a Data Architect.
 
 ### Connect with me:
 
