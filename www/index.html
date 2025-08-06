@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+      integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Anthony Hall</title>
+  </head>
+  <body>
+    <div class="main-content">
+      <!-- Home Section -->
+      <div id="home" class="content-section active">
+        <h2>Anthony Hall</h2>
+        <p>Hello. Welcome.</p>
+
+        <div class="social-icons">
+          <a
+            href="https://linkedin.com/in/theanthonylogan"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Connect with me on LinkedIn"
+          >
+            <i class="fa-brands fa-linkedin fa-2xl fa-beat-fade"></i>
+          </a>
+          <a
+            href="https://github.com/theanthonylogan"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Check out my GitHub"
+          >
+            <i class="fa-brands fa-github fa-2xl"></i>
+          </a>
+        </div>
+
+        <h3>Tools</h3>
+        <div class="tools-list">
+          <a
+            href="https://ittools.theanthonylogan.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            >ittools</a
+          >
+          <span class="separator">|</span>
+          <a
+            href="https://sharefile.theanthonylogan.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            >pico</a
+          >
+          <span class="separator">|</span>
+          <a
+            href="https://draw.theanthonylogan.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            >draw</a
+          >
+        </div>
+      </div>
+
+      <!-- Blog Section -->
+      <div id="blog" class="content-section">
+        <h2>Posts</h2>
+        
+        <!-- Blog content will be loaded here -->
+        <div id="blog-content"></div>
+      </div>
+    </div>
+
+    <footer>
+      <p>&copy; <span id="currentYear"></span> Anthony Hall. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+      // Load blog content
+      async function loadBlogContent() {
+        try {
+          const [blogListResponse, fullPostsResponse] = await Promise.all([
+            fetch('blog/blog-list.html'),
+            fetch('blog/full-posts.html')
+          ]);
+          
+          const blogListHtml = await blogListResponse.text();
+          const fullPostsHtml = await fullPostsResponse.text();
+          
+          document.getElementById('blog-content').innerHTML = blogListHtml + fullPostsHtml;
+        } catch (error) {
+          console.error('Error loading blog content:', error);
+          document.getElementById('blog-content').innerHTML = '<p>Error loading blog content.</p>';
+        }
+      }
+      
+      // Load blog content when page loads
+      loadBlogContent();
+    </script>
+  </body>
+</html>
