@@ -79,27 +79,27 @@
     </footer>
 
     <script src="script.js"></script>
-    <script>
-      // Load blog content
-      async function loadBlogContent() {
-        try {
-          const [blogListResponse, fullPostsResponse] = await Promise.all([
-            fetch('blog/blog-list.html'),
-            fetch('blog/full-posts.html')
-          ]);
-          
-          const blogListHtml = await blogListResponse.text();
-          const fullPostsHtml = await fullPostsResponse.text();
-          
-          document.getElementById('blog-content').innerHTML = blogListHtml + fullPostsHtml;
-        } catch (error) {
-          console.error('Error loading blog content:', error);
-          document.getElementById('blog-content').innerHTML = '<p>Error loading blog content.</p>';
-        }
-      }
-      
-      // Load blog content when page loads
-      loadBlogContent();
-    </script>
+//    <script>
+//      // Load blog content
+//      async function loadBlogContent() {
+//        try {
+//          const [blogListResponse, fullPostsResponse] = await Promise.all([
+//            fetch('blog/blog-list.html'),
+//            fetch('blog/full-posts.html')
+//          ]);
+//          
+//          const blogListHtml = await blogListResponse.text();
+//          const fullPostsHtml = await fullPostsResponse.text();
+//          
+//          document.getElementById('blog-content').innerHTML = blogListHtml + fullPostsHtml;
+//        } catch (error) {
+//          console.error('Error loading blog content:', error);
+//          document.getElementById('blog-content').innerHTML = '<p>Error loading blog content.</p>';
+//        }
+//      }
+//      
+//      // Load blog content when page loads
+//      loadBlogContent();
+//    </script>
   </body>
 </html>
