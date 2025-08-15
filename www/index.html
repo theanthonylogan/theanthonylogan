@@ -65,41 +65,10 @@
         </div>
       </div>
 
-      <!-- Blog Section -->
-      <div id="blog" class="content-section">
-        <h2>Posts</h2>
-        
-        <!-- Blog content will be loaded here -->
-        <div id="blog-content"></div>
-      </div>
-    </div>
-
     <footer>
       <p>&copy; <span id="currentYear"></span> Anthony Hall. All rights reserved.</p>
     </footer>
 
     <script src="script.js"></script>
-//    <script>
-//      // Load blog content
-//      async function loadBlogContent() {
-//        try {
-//          const [blogListResponse, fullPostsResponse] = await Promise.all([
-//            fetch('blog/blog-list.html'),
-//            fetch('blog/full-posts.html')
-//          ]);
-//          
-//          const blogListHtml = await blogListResponse.text();
-//          const fullPostsHtml = await fullPostsResponse.text();
-//          
-//          document.getElementById('blog-content').innerHTML = blogListHtml + fullPostsHtml;
-//        } catch (error) {
-//          console.error('Error loading blog content:', error);
-//          document.getElementById('blog-content').innerHTML = '<p>Error loading blog content.</p>';
-//        }
-//      }
-//      
-//      // Load blog content when page loads
-//      loadBlogContent();
-//    </script>
-  </body>
+ </body>
 </html>
