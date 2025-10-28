@@ -1,0 +1,182 @@
+/* === General Body Styles === */
+body {
+  background-color: #121212; /* Dark background */
+  color: #ffffff; /* White text */
+  font-family:
+    'Segoe UI',
+    Roboto,
+    'Helvetica Neue',
+    Arial,
+    sans-serif; /* Modern, clean font stack */
+  margin: 0; /* Remove default body margin */
+  min-height: 100vh; /* Ensure body takes full viewport height */
+  box-sizing: border-box; /* Include padding and border in element's total width and height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* === Main Content Container === */
+.main-content {
+  text-align: center;
+  padding: 30px; /* More padding for breathing room */
+  max-width: 800px; /* Increased width for blog content */
+  width: 90%; /* Responsive width for smaller screens */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+  border-radius: 8px; /* Slightly rounded corners */
+  background-color: #1f1f1f; /* Slightly lighter dark background for the container */
+  margin: 20px auto; /* Center the container */
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* === Content Sections === */
+.content-section {
+  display: none;
+  text-align: center;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.content-section.active {
+  display: flex;
+}
+
+/* === Heading Styles === */
+h2 {
+  color: #e0e0e0; /* Light gray for main heading */
+  margin-bottom: 15px; /* Space below main heading */
+  font-size: 2.5em; /* Larger main heading */
+  text-align: center;
+}
+
+h3 {
+  color: #e0e0e0; /* Light gray for sub-headings */
+  margin-top: 30px; /* Space above sub-headings */
+  margin-bottom: 15px; /* Space below sub-headings */
+  font-size: 1.8em;
+}
+
+/* === Paragraph Styles === */
+p {
+  margin-bottom: 20px; /* Space below paragraphs */
+  line-height: 1.6; /* Improve readability */
+  font-size: 1.1em;
+}
+
+/* === Link Styles === */
+a {
+  color: #00b7ff; /* Primary link color */
+  text-decoration: none; /* Remove underline by default */
+  transition: color 0.3s ease; /* Smooth transition for hover effect */
+  outline: none; /* Remove default focus outline */
+}
+
+a:hover {
+  color: #66d9ff; /* Lighter blue on hover */
+}
+
+a:focus {
+  /* Basic accessibility: improve focus indication */
+  outline: 2px solid #66d9ff;
+  outline-offset: 2px;
+  border-radius: 2px; /* For rounded corners on outline */
+}
+
+/* === Social Icons Section === */
+.social-icons {
+  margin-top: 20px; /* Space above icons */
+  margin-bottom: 30px; /* Space below icons */
+}
+
+.social-icons a {
+  margin: 0 15px; /* Space between icons */
+  display: inline-block; /* Allows vertical alignment and margin */
+  font-size: 2.5em; /* Larger icons */
+}
+
+.social-icons a i {
+  /* Font Awesome animation properties */
+  --fa-animation-duration: 3s;
+  --fa-animation-iteration-count: 1;
+  /* Custom hover effect */
+  transition: transform 0.3s ease; /* Smooth transform on hover */
+}
+
+.social-icons a:hover i {
+  transform: translateY(-5px); /* Slight lift effect on hover */
+}
+
+/* === Tools Section === */
+.tools-list {
+  margin-top: 20px;
+  font-size: 1.1em;
+}
+
+.tools-list a {
+  padding: 0 10px; /* Space around the separator */
+}
+
+.separator {
+  color: #666; /* Dim the separator color */
+  padding: 0 5px; /* Adjust padding around the separator for spacing */
+}
+
+/* === Footer Styles === */
+footer {
+  width: 100%; /* Take full width */
+  text-align: center;
+  color: #aaa; /* Lighter grey for footer text */
+  font-size: 0.9em;
+  padding: 20px 0;
+  margin-top: auto;
+}
+
+/* === Basic Responsiveness with Media Queries === */
+@media (max-width: 768px) {
+  /* Adjustments for tablets and smaller */
+  .main-content {
+    padding: 20px; /* Adjust padding */
+    width: 95%; /* Make container slightly wider */
+  }
+  h2 {
+    font-size: 2em;
+  }
+  h3 {
+    font-size: 1.6em;
+  }
+  .social-icons a {
+    font-size: 2em; /* Smaller icons on small screens */
+    margin: 0 10px;
+  }
+  .nav-menu a {
+    margin: 0 8px;
+    padding: 6px 12px;
+    font-size: 0.9em;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Adjustments for mobile phones */
+  .main-content {
+    padding: 15px; /* Further reduce padding */
+  }
+  h2 {
+    font-size: 1.8em;
+  }
+  h3 {
+    font-size: 1.4em;
+  }
+  p {
+    font-size: 1em;
+  }
+  .nav-menu a {
+    margin: 0 4px;
+    padding: 4px 8px;
+    font-size: 0.8em;
+  }
+} 
