@@ -1,24 +1,7 @@
-# README
+# Hi there, I'm Anthony - 👋
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## I'm a Data Architect.
 
-Things you may want to cover:
+### Connect with me:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![website](./app/assets/images/globe-light.svg)](http://theanthonylogan.com#gh-light-mode-only) [![website](./app/assets/images/globe-dark.svg)](http://theanthonylogan.com#gh-dark-mode-only) [![website](./app/assets/images/linkedin-light.svg)](https://linkedin.com/in/theanthonylogan#gh-light-mode-only) [![website](./app/assets/images/linkedin-dark.svg)](https://linkedin.com/in/theanthonylogan#gh-dark-mode-only)
